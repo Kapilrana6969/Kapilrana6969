@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Kapilrana6969
+- 👋 Hi, I’m Data Engineer 
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine Learning with Pyhton
-- 💞️ I’m looking to collaborate on Ml projects
+- 🌱 I’m currently Learning AWS & SPARK
+- 💞️ I’m looking to collaborate on DATA Engineering Projects
 -
 - 
 
